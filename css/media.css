@@ -1,0 +1,917 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    body{
+        margin: 0%;
+        padding: 0%;
+        overflow-x: hidden;
+    }
+    #banar{
+        height: auto;
+    }
+    #navbar{
+        height: auto;
+    }
+    #nav-logo{
+        padding-left: 0px;
+    }
+    #home{
+        padding-left: 43px;
+    }
+    #banar-h1{
+        padding: 0%;
+        padding-left: 5px;
+        font-size: 80px;
+    }
+    #banar-para{
+        padding: 0%;
+        padding-left: 5px;
+        font-size: 17px;
+    }
+    #register-now{
+        width: 220px;
+        margin-left: 37px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    #section-1{
+        height: auto;
+    }
+    #section-1-h1{
+        font-size: 55px;
+        padding-top: 25px;
+    }
+    #section-1-para{
+        font-size: 13.72px;
+    }
+    #section-1-card-1{
+        margin-left: 2px;
+    }
+    #section-1-card-2{
+        margin-left: 2px;
+        margin-top: 20px;
+    }
+    #section-1-card-3{
+        margin-left: 2px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .card-text{
+        font-size: 20.17px;
+    }
+    #pricing{
+        font-size: 55px;
+        padding-top: 35px;
+    }
+    #pricing-body{
+        font-size: 13.72px;
+    }
+
+
+    #section-2{
+        height: auto;
+    }
+    #section-2-card-1{
+        margin: 0%;
+        margin-top: -20px;
+    }
+    #section-2-card-2{
+        margin: 0%;
+        margin-top: 20px;
+    }
+    #section-2-card-3{
+        margin: 0%;
+        margin-top: 20px;
+        margin-bottom: 33px;
+    }
+    #section-2-card-img{
+        margin-left: 111px;
+    }
+    #section-2-card-btn{
+        width: 288px;
+    }
+
+
+    #section-3-col{
+        padding: 0%;
+    }
+    #section-3-img-1{
+        width:100vw;
+    }
+    .amazing-h1{
+        font-size: 41px;
+        padding-top: 64px;
+        padding-left: 28px;
+    }
+    .amazing-para {
+        font-size: 17.72px;
+    }
+    #section-3-btn-1{
+        margin-top: 30px;
+        margin-left: 15px;
+        width: 277px;
+        margin-bottom: 30px;
+    }
+    .best-h1{
+        font-size: 41px;
+        padding-top: 64px;
+        padding-left: 28px;
+    }
+    .best-para {
+        font-size: 16.72px;
+        padding: 0%;
+    }
+    #section-3-btn-2{
+        margin-top: 30px;
+        margin-left: 15px;
+        width: 277px;
+        margin-bottom: 30px;
+    }
+    .section-3-img-2 {
+        width: 375px;
+    }
+    #section-3-img-2{
+        width: 100vw;
+    }
+    #section-3{
+        height: 1747px;
+    }
+
+
+    .statistics-h1{
+        padding-top: 53px;
+        font-size: 60px;
+    }
+    .statistics-para{
+        font-size: 11.72px;
+        padding-top: 3px;
+    }
+
+
+    .section-4-h1{
+        font-size: 73.84px;
+    }
+    .section-4-para{
+        font-size: 35.67px;
+    }
+    #section-4-row{
+        padding-top: 0px;
+    }
+    #section-4{
+        height: 850px;
+    }
+
+    .section-5-para{
+        font-size: 20px;
+        line-height: 32px;
+        padding-top: 45px;
+    }
+    .section-5-h1 {
+        font-size: 45.33px;
+        padding-top: 0px;
+    }
+    .section-5{
+        height: 261px;
+    }
+
+
+    .section-6-h1{
+        font-size: 55px;
+        padding-top: 26px;
+    }
+    .section-6-para{
+        font-size: 12.72px;
+        padding-top: 0px;
+    }
+    .email{
+        height: 50px;
+        margin-left: 12px;
+        width: 222px;
+    }
+    #subcribe{
+        height: 50px;
+        width: 170px;
+        font-size: 21px;
+        margin-left: -45px;
+    }
+    .section-6{
+        height: 300px;
+    }
+
+
+    #footer{
+        height: auto;
+    }
+    .musicology{
+        padding-top: 27px;
+        padding-left: 18px;
+    }
+    .musicology-para{
+        padding-top: 0px;
+        padding-left: 18px;
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+    .footer-logo-1{
+        padding-left: 30px;
+    }
+    .about{
+        padding-top: 35px;
+        padding-left: 5px;
+        margin-bottom: 12px;
+    }
+    .about-para{
+        padding-left: 25px;
+    }
+    .footer-ul-2 {
+        padding-left: 2px;
+    }
+
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #banar{
+        height: auto;
+    }
+    #navbar{
+        height: auto;
+    }
+    #nav-logo{
+        padding-left: 0px;
+    }
+    #home{
+        padding-left: 43px;
+    }
+    #banar-h1{
+        padding: 0%;
+        padding-left: 5px;
+        font-size: 80px;
+    }
+    #banar-para{
+        padding: 0%;
+        padding-left: 5px;
+        font-size: 17px;
+    }
+    #register-now{
+        width: 220px;
+        margin-left: 37px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    #section-1{
+        height: auto;
+    }
+    #section-1-h1{
+        font-size: 55px;
+        padding-top: 25px;
+    }
+    #section-1-para{
+        font-size: 13.72px;
+    }
+    #section-1-card-1{
+        width: 335px;
+        margin-left: 20px;
+    }
+    #section-1-card-2{
+        width: 335px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    #section-1-card-3{
+        width: 335px;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .card-text{
+        font-size: 20.17px;
+    }
+    #pricing{
+        font-size: 55px;
+        padding-top: 35px;
+    }
+    #pricing-body{
+        font-size: 13.72px;
+    }
+
+
+    #section-2{
+        height: auto;
+    }
+    #section-2-card-1{
+        width: 343px;
+        margin: 0%;
+        margin-top: -20px;
+    }
+    #section-2-card-2{
+        width: 343px;
+        margin: 0%;
+        margin-top: 20px;
+    }
+    #section-2-card-3{
+        width: 343px;
+        margin: 0%;
+        margin-top: 20px;
+        margin-bottom: 33px;
+    }
+    #section-2-card-img{
+        margin-left: 111px;
+    }
+    #section-2-card-btn{
+        width: 288px;
+    }
+
+
+    #section-3-col{
+        padding: 0%;
+    }
+    #section-3-img-1{
+        width: 100vw;
+    }
+    .amazing-h1{
+        font-size: 41px;
+        padding-top: 64px;
+        padding-left: 28px;
+    }
+    .amazing-para {
+        font-size: 17.72px;
+    }
+    #section-3-btn-1{
+        margin-top: 30px;
+        margin-left: 15px;
+        width: 277px;
+        margin-bottom: 30px;
+    }
+    .best-h1{
+        font-size: 41px;
+        padding-top: 64px;
+        padding-left: 28px;
+    }
+    .best-para {
+        font-size: 16.72px;
+        padding: 0%;
+    }
+    #section-3-btn-2{
+        margin-top: 30px;
+        margin-left: 15px;
+        width: 277px;
+        margin-bottom: 30px;
+    }
+    #section-3-img-2{
+        width: 100vw;
+    }
+    #section-3{
+        height: auto;
+    }
+
+
+    .statistics-h1{
+        padding-top: 53px;
+        font-size: 60px;
+    }
+    .statistics-para{
+        font-size: 19.72px;
+        padding-top: 3px;
+    }
+
+
+    .section-4-h1{
+        font-size: 73.84px;
+    }
+    .section-4-para{
+        font-size: 35.67px;
+    }
+    #section-4-row{
+        padding-top: 0px;
+    }
+    #section-4{
+        height: 850px;
+    }
+
+    .section-5-para{
+        font-size: 20px;
+        line-height: 32px;
+        padding-top: 45px;
+    }
+    .section-5-h1 {
+        font-size: 45.33px;
+        padding-top: 0px;
+        margin-bottom: 0px;
+    }
+    .section-5{
+        height: auto;
+    }
+
+
+    .section-6-h1{
+        font-size: 55px;
+        padding-top: 26px;
+    }
+    .section-6-para{
+        font-size: 12.72px;
+        padding-top: 0px;
+    }
+    .email{
+        height: 50px;
+        margin-left: 12px;
+        width: 222px;
+    }
+    #subcribe{
+        height: 50px;
+        width: 170px;
+        font-size: 21px;
+        margin-left: -45px;
+    }
+    .section-6{
+        height: 300px;
+    }
+
+
+    #footer{
+        height: auto;
+    }
+    .musicology{
+        padding-top: 27px;
+        padding-left: 18px;
+    }
+    .musicology-para{
+        padding-top: 0px;
+        padding-left: 18px;
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+    .footer-logo-1{
+        padding-left: 30px;
+    }
+    .about{
+        padding-top: 35px;
+        padding-left: 5px;
+        margin-bottom: 12px;
+    }
+    .about-para{
+        padding-left: 25px;
+    }
+    .footer-ul-2 {
+        padding-left: 2px;
+    }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {#banar{
+    height: auto;
+}
+#navbar{
+    height: auto;
+}
+#nav-logo{
+    padding-left: 0px;
+}
+#home{
+    padding-left: 43px;
+}
+#banar-h1{
+    padding: 0%;
+    padding-left: 5px;
+    font-size: 80px;
+}
+#banar-para{
+    padding: 0%;
+    padding-left: 5px;
+    font-size: 17px;
+}
+#register-now{
+    width: 220px;
+    margin-left: 37px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#section-1{
+    height: auto;
+}
+#section-1-h1{
+    font-size: 55px;
+    padding-top: 25px;
+}
+#section-1-para{
+    font-size: 13.72px;
+}
+#section-1-card-1{
+    width: 335px;
+    margin-left: 20px;
+}
+#section-1-card-2{
+    width: 335px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#section-1-card-3{
+    width: 335px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.card-text{
+    font-size: 20.17px;
+}
+#pricing{
+    font-size: 55px;
+    padding-top: 35px;
+}
+#pricing-body{
+    font-size: 13.72px;
+}
+
+
+#section-2{
+    height: auto;
+}
+#section-2-card-1{
+    width: 343px;
+    margin: 0%;
+    margin-top: -20px;
+}
+#section-2-card-2{
+    width: 343px;
+    margin: 0%;
+    margin-top: 20px;
+}
+#section-2-card-3{
+    width: 343px;
+    margin: 0%;
+    margin-top: 20px;
+    margin-bottom: 33px;
+}
+#section-2-card-img{
+    margin-left: 111px;
+}
+#section-2-card-btn{
+    width: 288px;
+}
+
+
+#section-3-col{
+    padding: 0%;
+}
+#section-3-img-1{
+    width: 375px;
+}
+.amazing-h1{
+    font-size: 41px;
+    padding-top: 64px;
+    padding-left: 28px;
+}
+.amazing-para {
+    font-size: 17.72px;
+}
+#section-3-btn-1{
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 277px;
+    margin-bottom: 30px;
+}
+.best-h1{
+    font-size: 41px;
+    padding-top: 64px;
+    padding-left: 28px;
+}
+.best-para {
+    font-size: 16.72px;
+    padding: 0%;
+}
+#section-3-btn-2{
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 277px;
+    margin-bottom: 30px;
+}
+#section-3-img-2{
+    width: 375px;
+}
+#section-3{
+    height: 1747px;
+}
+
+
+.statistics-h1{
+    padding-top: 53px;
+    font-size: 60px;
+}
+.statistics-para{
+    font-size: 11.72px;
+    padding-top: 3px;
+}
+
+
+.section-4-h1{
+    font-size: 73.84px;
+}
+.section-4-para{
+    font-size: 35.67px;
+}
+#section-4-row{
+    padding-top: 0px;
+}
+#section-4{
+    height: 850px;
+}
+
+.section-5-para{
+    font-size: 20px;
+    line-height: 32px;
+    padding-top: 45px;
+}
+.section-5-h1 {
+    font-size: 45.33px;
+    padding-top: 0px;
+}
+.section-5{
+    height: 261px;
+}
+
+
+.section-6-h1{
+    font-size: 55px;
+    padding-top: 26px;
+}
+.section-6-para{
+    font-size: 12.72px;
+    padding-top: 0px;
+}
+.email{
+    height: 50px;
+    margin-left: 12px;
+    width: 222px;
+}
+#subcribe{
+    height: 50px;
+    width: 170px;
+    font-size: 21px;
+    margin-left: -45px;
+}
+.section-6{
+    height: 300px;
+}
+
+
+#footer{
+    height: auto;
+}
+.musicology{
+    padding-top: 27px;
+    padding-left: 18px;
+}
+.musicology-para{
+    padding-top: 0px;
+    padding-left: 18px;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.footer-logo-1{
+    padding-left: 30px;
+}
+.about{
+    padding-top: 35px;
+    padding-left: 5px;
+    margin-bottom: 12px;
+}
+.about-para{
+    padding-left: 25px;
+}
+.footer-ul-2 {
+    padding-left: 2px;
+}
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #banar{
+        height: auto;
+    }
+    #navbar{
+        height: auto;
+    }
+    #nav-logo{
+        padding-left: 0px;
+    }
+    #home{
+        padding-left: 43px;
+    }
+    #banar-h1{
+        padding: 0%;
+        padding-left: 5px;
+        font-size: 80px;
+    }
+    #banar-para{
+        padding: 0%;
+        padding-left: 5px;
+        font-size: 17px;
+    }
+    #register-now{
+        width: 220px;
+        margin-left: 37px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    #section-1{
+        height: auto;
+    }
+    #section-1-h1{
+        font-size: 55px;
+        padding-top: 25px;
+    }
+    #section-1-para{
+        font-size: 13.72px;
+    }
+    #section-1-card-1{
+        width: 335px;
+        margin-left: 20px;
+    }
+    #section-1-card-2{
+        width: 335px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    #section-1-card-3{
+        width: 335px;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .card-text{
+        font-size: 20.17px;
+    }
+    #pricing{
+        font-size: 55px;
+        padding-top: 35px;
+    }
+    #pricing-body{
+        font-size: 13.72px;
+    }
+
+
+    #section-2{
+        height: auto;
+    }
+    #section-2-card-1{
+        width: 343px;
+        margin: 0%;
+        margin-top: -20px;
+    }
+    #section-2-card-2{
+        width: 343px;
+        margin: 0%;
+        margin-top: 20px;
+    }
+    #section-2-card-3{
+        width: 343px;
+        margin: 0%;
+        margin-top: 20px;
+        margin-bottom: 33px;
+    }
+    #section-2-card-img{
+        margin-left: 111px;
+    }
+    #section-2-card-btn{
+        width: 288px;
+    }
+
+
+    #section-3-col{
+        padding: 0%;
+    }
+    #section-3-img-1{
+        width: 375px;
+    }
+    .amazing-h1{
+        font-size: 41px;
+        padding-top: 64px;
+        padding-left: 28px;
+    }
+    .amazing-para {
+        font-size: 17.72px;
+    }
+    #section-3-btn-1{
+        margin-top: 30px;
+        margin-left: 15px;
+        width: 277px;
+        margin-bottom: 30px;
+    }
+    .best-h1{
+        font-size: 41px;
+        padding-top: 64px;
+        padding-left: 28px;
+    }
+    .best-para {
+        font-size: 16.72px;
+        padding: 0%;
+    }
+    #section-3-btn-2{
+        margin-top: 30px;
+        margin-left: 15px;
+        width: 277px;
+        margin-bottom: 30px;
+    }
+    #section-3-img-2{
+        width: 375px;
+    }
+    #section-3{
+        height: 1747px;
+    }
+
+
+    .statistics-h1{
+        padding-top: 53px;
+        font-size: 60px;
+    }
+    .statistics-para{
+        font-size: 11.72px;
+        padding-top: 3px;
+    }
+
+
+    .section-4-h1{
+        font-size: 73.84px;
+    }
+    .section-4-para{
+        font-size: 35.67px;
+    }
+    #section-4-row{
+        padding-top: 0px;
+    }
+    #section-4{
+        height: 850px;
+    }
+
+    .section-5-para{
+        font-size: 20px;
+        line-height: 32px;
+        padding-top: 45px;
+    }
+    .section-5-h1 {
+        font-size: 45.33px;
+        padding-top: 0px;
+    }
+    .section-5{
+        height: 261px;
+    }
+
+
+    .section-6-h1{
+        font-size: 55px;
+        padding-top: 26px;
+    }
+    .section-6-para{
+        font-size: 12.72px;
+        padding-top: 0px;
+    }
+    .email{
+        height: 50px;
+        margin-left: 12px;
+        width: 222px;
+    }
+    #subcribe{
+        height: 50px;
+        width: 170px;
+        font-size: 21px;
+        margin-left: -45px;
+    }
+    .section-6{
+        height: 300px;
+    }
+
+
+    #footer{
+        height: auto;
+    }
+    .musicology{
+        padding-top: 27px;
+        padding-left: 18px;
+    }
+    .musicology-para{
+        padding-top: 0px;
+        padding-left: 18px;
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+    .footer-logo-1{
+        padding-left: 30px;
+    }
+    .about{
+        padding-top: 35px;
+        padding-left: 5px;
+        margin-bottom: 12px;
+    }
+    .about-para{
+        padding-left: 25px;
+    }
+    .footer-ul-2 {
+        padding-left: 2px;
+    }
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
